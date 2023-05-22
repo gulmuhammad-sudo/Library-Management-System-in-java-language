@@ -1,3 +1,3 @@
-# assignment-3
+# Library Management System
 
-This Assignmat is made by Gul Muhammad 
+This Assignmat in java language with the GUI. 
