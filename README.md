@@ -1,3 +1,3 @@
 # Library Management System
 
-This Assignmat in java language with the GUI. 
+This Assignmat is made in java language with the GUI. 
